@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jings27?theme=nord&font=Junge)
+
 <!--
 **Jings1017/Jings1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
